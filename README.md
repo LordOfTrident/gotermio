@@ -14,7 +14,7 @@
 	</a>
 </p>
 
-A Unix/Linux terminal library for Go that provides functions for styling, cursor movement, clearing
+An UNFINISHED Unix/Linux terminal library for Go that provides functions for styling, cursor movement, clearing
 and others.
 
 ## Table of contents
